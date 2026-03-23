@@ -1,0 +1,11 @@
+{
+  "name": "mi-app-vercel",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "David <correo@gmail.com>",
+  "license": "ISC"
+}
